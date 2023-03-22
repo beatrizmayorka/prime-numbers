@@ -1,0 +1,14 @@
+{
+  "name": "prime-numbers",
+  "version": "1.0.0",
+  "description": "A project that generates a list of prime numbers.",
+  "main": "printPrimes.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Beatriz Mayorka de Aguiar",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
