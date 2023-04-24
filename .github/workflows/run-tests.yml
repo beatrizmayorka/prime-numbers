@@ -19,3 +19,9 @@ jobs:
       run: npm install
     - name: Run Tests
       run: npm test
+    - name: SonarCloud Scan
+      uses: sonarsource/sonarcloud-github-action@master
+      with:
+        organization: beatrizmayorka
+        projectKey: beatrizmayorka_prime-numbers
+        token: ${{ secrets.SONAR_TOKEN }}
