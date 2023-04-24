@@ -10,5 +10,9 @@
   "license": "MIT",
   "devDependencies": {
     "jest": "^29.5.0"
-  }
+  },
+  "devDependencies": {
+  "@sonarqube/community-sonarqube-javascript": "^2.2.0",
+  "jest": "^27.0.6"
+}
 }
