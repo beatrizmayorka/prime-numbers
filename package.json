@@ -9,7 +9,7 @@
   "author": "Beatriz Mayorka de Aguiar",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^29.5.0",
+    "jest": "^27.0.6",
     "@sonarqube/community-sonarqube-javascript": "^2.2.0"
   }
 }
